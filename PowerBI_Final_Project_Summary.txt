@@ -1,0 +1,42 @@
+FINAL PROJECT – POWER BI Step-by-Step Summary
+
+1.  Project Overview
+    -   Created a Power BI report (.pbix file).
+    -   Objective: Analyze data and build interactive dashboards.
+    -   Used Power BI Desktop for data modeling and visualization.
+2.  Data Collection
+    -   Imported dataset into Power BI.
+    -   Verified data types (text, number, date, etc.).
+    -   Cleaned unnecessary columns and handled missing values.
+3.  Data Transformation (Power Query)
+    -   Removed duplicates and blank rows.
+    -   Renamed columns for clarity.
+    -   Created calculated columns where required.
+    -   Applied data formatting and filtering.
+4.  Data Modeling
+    -   Established relationships between tables.
+    -   Set primary and foreign keys.
+    -   Created measures using DAX formulas.
+    -   Built calculated measures (SUM, COUNT, AVERAGE, etc.).
+5.  Report Development
+    -   Designed interactive dashboard pages.
+    -   Added visuals (Bar Chart, Line Chart, Pie Chart, Table, Cards).
+    -   Used slicers for filtering (Date, Category, Region, etc.).
+    -   Applied consistent theme and formatting.
+6.  Analysis & Insights
+    -   Identified trends and patterns in the data.
+    -   Compared performance across categories.
+    -   Highlighted key KPIs.
+    -   Generated meaningful business insights.
+7.  Testing & Validation
+    -   Checked accuracy of calculations.
+    -   Verified relationships and filters.
+    -   Ensured visuals update dynamically.
+8.  Final Output
+    -   Saved report as .pbix file.
+    -   Dashboard ready for presentation.
+    -   Can publish to Power BI Service for sharing.
+
+Conclusion: The project demonstrates data cleaning, modeling, DAX
+calculations, interactive dashboard design, and business insight
+generation using Power BI.
